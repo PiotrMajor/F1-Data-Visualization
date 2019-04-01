@@ -1,9 +1,6 @@
 # Formula 1 Data Exploration
 ## by Piotr Majorkowski
-
-
 ## Dataset
-
 ### Context
 Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the premier forms of racing around the world since its inaugural season in 1950.
 
