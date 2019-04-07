@@ -1,7 +1,7 @@
-# Formula 1 Data Exploration
-## by Piotr Majorkowski
-## Dataset
+# Formula 1 Data Exploration by Piotr Majorkowski
 ### Context
+![Text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/220px-F1.svg.png)
+
 Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the premier forms of racing around the world since its inaugural season in 1950.
 
 ### Content
@@ -10,9 +10,8 @@ This dataset contains data from 1950 all the way through the 2018 season, and co
 ### Acknowledgements
 The data was downloaded from http://ergast.com/mrd/.
 
-
 ## Summary of Findings
-
+![Text](https://www.suzukacircuit.jp/f1_en/images/top_main_2019.jpg)
 In the exploration, I found that there are only a few drivers in history who won over 20 GPs in their careers. Most drivers who ever won a GP, came first in a race only 1 - 2 times. Additionally, I saw that there were some drivers who completely dominated F1 racing and won over 50 GPs in their careers. The most successful driver is Michael Schumacher with 91 wins. Lewis Hamilton and Sebastian Vettel won 73 and 52 GPs respectively. These two drivers are still active; therefore, they could potential stop Schumacher's domination. I saw a similar pattern in the constructors' chart. There were a few teams that completely dominate the sports, while most teams won only a handful of GPs in their history. The most successful team is Ferrari with 236 GP wins. Next, we have McLaren with 178 wins and Williams with 114 victories.
 
 Next, I investigated whether the speed of the cars changed over the years. In general, the average fastest lap decreased from year 2004 to 2015 for allmost all circuits. From 2015 onwards, the speed started to come back again to the values from 2004. I also saw that the speed is very different on each track. For instnance, the Italian GP is the fastest race in the calendar with average speed exceeding 240 km/h. On the other hand, Monaco is the slowest race with average speed below 160 km/h. This was expected, as Monaco GP takes place on the narrow streets of a city.
